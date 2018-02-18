@@ -191,4 +191,4 @@ function play(guild, song) {
 	serverQueue.textChannel.send(`🎶 Start playing: **${song.title}**`);
 }
 
-client.login(BOT_TOKEN);
+client.login(TOKEN);
