@@ -1,0 +1,2 @@
+# OmegaMusikBot
+Just Music
